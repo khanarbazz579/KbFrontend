@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "InventoryTask"
+    }
+  },
+  "defaultProject": "InventoryTask",
+  "cli": {
+    "analytics": "080d671c-6d18-4b48-bc3a-26ab1c7a268d"
+  }
 }
